@@ -1,2 +1,2 @@
-# avr-toolchain
-Repository of various avr-gcc toolchain versions
+# avr-toolchains
+Repository of various avr-gcc toolchain versions for windows.
